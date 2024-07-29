@@ -26,4 +26,4 @@
 
 - Homepage: http://scholar.pku.edu.cn/qfhuang
 - ADS Library: https://ui.adsabs.harvard.edu/user/libraries/io_5ig4tQteI9_M-00nZ_g
-- CV: [curriculum_vitae_0.pdf](http://scholar.pku.edu.cn/sites/default/files/qfhuang/files/curriculum_vitae_0.pdf)
+- CV: [curriculum_vitae.pdf](https://drive.google.com/file/d/1fpxwXa7DFv7IhOdtWUqxkOtbeLx25kzZ)
