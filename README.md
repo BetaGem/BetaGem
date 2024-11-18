@@ -20,7 +20,7 @@
   
 ### Contact
 
-- Address: No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
+- Address: No.5 Yiheyuan Road, Haidian District, Beijing 100871, China
 - Email: qfhuang0616@gmail.com
   
 ### Related Links
