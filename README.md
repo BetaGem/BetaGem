@@ -12,7 +12,7 @@
   
 ### Research
 
-- Interest: Astrophysics of galaxies. Structure and evolution of galaxies.  
+- Interest: Astrophysics of galaxies.  
 - ORCID: [0000-0003-2863-9837](https://orcid.org/0000-0003-2863-9837)  
 - Publications:  
   - [1] **Huang Q.**, Fan L., 2022, ApJS, 262, 39. [Massive Early-type Galaxies in the HSC-SSP: Flux Fraction of Tidal Features and Merger Rates](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...39H/abstract)
