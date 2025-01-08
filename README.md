@@ -17,7 +17,7 @@
 - Publications:  
   - [1] **Huang Q.**, Fan L., 2022, ApJS, 262, 39. [Massive Early-type Galaxies in the HSC-SSP: Flux Fraction of Tidal Features and Merger Rates](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...39H/abstract)
   - [2] **Huang Q.**, Wang J., Lin X., et al. 2024, ApJ accepted. [WALLABY Pilot Survey: Star Formation Enhancement and Suppression in Gas-rich Galaxy Pairs](https://arxiv.org/abs/2410.22406)
-  - [3] Wang, J., Yang, D., Lin, X., **Huang, Q.**, et al. ApJ accepted. FEASTS: Radial Distribution of HI surface densities down to 0.01 M_\odot pc^{-2} of 35 Nearby Galaxies
+  - [3] Wang, J., Yang, D., Lin, X., **Huang, Q.**, et al. ApJ accepted. [FEASTS: Radial Distribution of HI surface densities down to 0.01 M_\odot pc^{-2} of 35 Nearby Galaxies](https://arxiv.org/abs/2501.01289)
   
 ### Contact
 
