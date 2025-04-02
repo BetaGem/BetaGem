@@ -7,7 +7,7 @@
 - My hometown: Hanchuan City, Hubei Province, China
 - Education
   - 2015 - 2018: NO.1 Middle School Affiliated to Central China Normal University
-  - 2018 - 2022: (BS) Department of Astronomy, School of Physics, University of Science and Technology of China
+  - 2018 - 2022: (BSc) Department of Astronomy, School of Physics, University of Science and Technology of China
   - 2022 - Now: (PhD) The Kavli Institute for Astronomy and Astrophysics, Peking University
   
 ### Research
