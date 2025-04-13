@@ -12,14 +12,13 @@
   
 ### Research
 
-- Interest: Astrophysics of galaxies.  
-- ORCID: [0000-0003-2863-9837](https://orcid.org/0000-0003-2863-9837)  
+- Interest: Astrophysics of galaxies. I use multiband data imaging data and HI to study galaxy evolution.
 - Publications:  
   - [1] **Huang Q.**, Fan L., 2022 ApJS 262 39. [Massive Early-type Galaxies in the HSC-SSP: Flux Fraction of Tidal Features and Merger Rates](https://iopscience.iop.org/article/10.3847/1538-4365/ac85b1)
   - [2] **Huang Q.**, Wang J., Lin X., et al. 2025 ApJ 980 157. [WALLABY Pilot Survey: Star Formation Enhancement and Suppression in Gas-rich Galaxy Pairs](https://iopscience.iop.org/article/10.3847/1538-4357/ad9579)
   - [3] Wang, J., Yang, D., Lin, X., **Huang, Q.**, et al. 2025 ApJ 980 25. [FEASTS: Radial Distribution of HI surface densities down to 0.01 M_\odot pc^{-2} of 35 Nearby Galaxies](https://iopscience.iop.org/article/10.3847/1538-4357/ada95a)
   - [4] Ellison, S.L., **Huang, Q.**, Yang, D., et al. 2025, submitted to OJAp. [Low redshift post-starburst galaxies host abundant HI reservoirs](https://arxiv.org/abs/2503.03066)
-  
+
 ### Contact
 
 - Address: No.5 Yiheyuan Road, Haidian District, Beijing 100871, China
@@ -28,5 +27,11 @@
 ### Related Links
 
 - Homepage: http://scholar.pku.edu.cn/qfhuang (maybe outdated)
-- ADS Library: https://ui.adsabs.harvard.edu/user/libraries/io_5ig4tQteI9_M-00nZ_g
 - CV: [curriculum_vitae.pdf](https://github.com/BetaGem/BetaGem/blob/main/Curriculum_Vitae.pdf)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qfhuang0616@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6C139?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0003-2863-9837)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Qifeng-Huang)
+
+![](https://github-readme-stats.vercel.app/api?username=BetaGem&show_icons=true&theme=github_dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaGem&layout=compact&theme=github_dark)
