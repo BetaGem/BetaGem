@@ -8,13 +8,13 @@ I study astronomy because someone needs to figure out why on earth we are here.
 
 - Born and raised in Hanchuan, Hubei
 - Education
-  - Ph.D. Candidate in Astronomy | Peking University, Beijing (2022–Present)
-  - B.Sc. in Astronomy | University of Science and Technology of China, Hefei (2018–2022)
-  - High School | CCNU No.1 Middle School, Wuhan (2015–2018)
+  - Ph.D. Candidate in Astronomy | Peking University, Beijing, China (2022–Present)
+  - B.Sc. in Astronomy | University of Science and Technology of China, Hefei, China (2018–2022)
+  - High School | CCNU No.1 Middle School, Wuhan, China (2015–2018)
   
 #### 🔭 Research Focus
 
-- I'm intersted in astrophysics of galaxies. I study galalxy evolution using multi-wavelength imaging and neutral hydrogen (HI) observations.
+- I'm intersted in astrophysics of galaxies. I study galaxy evolution by combining multi-wavelength data and neutral hydrogen (HI) gas observations.
 
 #### 📍 Connect With Me
 
