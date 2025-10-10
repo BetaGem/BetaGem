@@ -10,7 +10,6 @@ I study astronomy because someone needs to figure out why on earth we are here.
 - Education
   - Ph.D. Candidate in Astronomy | Peking University, Beijing, China (2022–Present)
   - B.Sc. in Astronomy | University of Science and Technology of China, Hefei, China (2018–2022)
-  - High School | CCNU No.1 Middle School, Wuhan, China (2015–2018)
   
 #### 🔭 Research Focus
 
