@@ -1,26 +1,25 @@
-## Qifeng Huang (黄齐丰)  
-#### PhD Candidate @ KIAA, PKU
+## Qifeng Huang
+#### PhD Candidate @ KIAA, Peking Univ.
 
 #### 🌌 Hello! 
-I study astronomy because someone needs to figure out why on earth we are here.
+I study astronomy because someone needs to figure out why we are here and what our future is like.
 
 #### 📜 Background
 
-- Born and raised in Hanchuan, Hubei
+- Born and raised in Hanchuan, Hubei Province
 - Education
-  - Ph.D. Candidate in Astronomy | Peking University, Beijing, China (2022–Present)
+  - Ph.D. Candidate in Astronomy | Peking University, Beijing, China (2022–2028)
   - B.Sc. in Astronomy | University of Science and Technology of China, Hefei, China (2018–2022)
   
 #### 🔭 Research Focus
 
-- I'm intersted in astrophysics of galaxies. I study galaxy evolution by combining multi-wavelength data and neutral hydrogen (HI) gas observations.
+- I'm interested in astrophysics of galaxies. I study galaxy evolution by combining multi-wavelength data and neutral hydrogen (HI) gas observations. My research focuses on galaxy interactions and the connection between gas and star formation in galaxies.
 
 #### 📍 Connect With Me
 
 - Address: No.5 Yiheyuan Road, Haidian District, Beijing 100871, China
 - Email: qfhuang0616@gmail.com
-- Academic Profile: [PKU Scholar Page](http://scholar.pku.edu.cn/qfhuang) (Under maintenance)
-- CV: [Download PDF](https://github.com/BetaGem/BetaGem/blob/main/Curriculum_Vitae.pdf)
+- My CV: [Download PDF](https://github.com/BetaGem/BetaGem/blob/main/Curriculum_Vitae.pdf)
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qfhuang0616@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6C139?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0003-2863-9837)
